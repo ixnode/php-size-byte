@@ -11,9 +11,10 @@ declare(strict_types=1);
  * file that was distributed with this source code.
  */
 
-namespace Ixnode\SizeByte;
+namespace Ixnode\PhpSizeByte;
 
 use Exception;
+use Test\Ixnode\PhpSizeByte\SizeByteTest;
 
 /**
  * Class SizeByte
@@ -21,6 +22,7 @@ use Exception;
  * @author Björn Hempel <bjoern@hempel.li>
  * @version 0.1.0 (2022-12-19)
  * @since 0.1.0 (2022-12-19) First version.
+ * @link SizeByteTest
  */
 class SizeByte
 {

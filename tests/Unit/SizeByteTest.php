@@ -11,9 +11,9 @@ declare(strict_types=1);
  * file that was distributed with this source code.
  */
 
-namespace Test\Ixnode\SizeByte;
+namespace Test\Ixnode\PhpSizeByte;
 
-use Ixnode\SizeByte\SizeByte;
+use Ixnode\PhpSizeByte\SizeByte;
 use PHPUnit\Framework\TestCase;
 
 /**

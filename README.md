@@ -19,11 +19,25 @@ php-size-byte 0.1.0 (12-19-2022 01:17:26) - Björn Hempel <bjoern@hempel.li>
 ## Usage
 
 ```php
-use Ixnode\SizeByte\SizeByte;
+use Ixnode\PhpSizeByte\SizeByte;
 ```
 
 ```php
 $sizeHumanReadable = (new SizeByte($fileSize))->getHumanReadable();
+```
+
+## Development
+
+```bash
+git clone git@github.com:ixnode/php-size-byte.git && cd php-size-byte
+```
+
+```bash
+composer install
+```
+
+```bash
+composer test
 ```
 
 ## License

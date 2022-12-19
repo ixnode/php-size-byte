@@ -13,8 +13,8 @@
   ],
   "autoload": {
     "psr-4": {
-      "Ixnode\\SizeByte\\": "src",
-      "Test\\Ixnode\\SizeByte\\": "tests"
+      "Ixnode\\PhpSizeByte\\": "src/",
+      "Test\\Ixnode\\PhpSizeByte\\": "tests/"
     }
   },
   "require": {
