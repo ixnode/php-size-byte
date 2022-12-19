@@ -14,7 +14,7 @@ declare(strict_types=1);
 namespace Ixnode\PhpSizeByte;
 
 use Exception;
-use Test\Ixnode\PhpSizeByte\SizeByteTest;
+use Ixnode\PhpSizeByte\Tests\SizeByteTest;
 
 /**
  * Class SizeByte
