@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Releases
 
+### [0.1.1] - 2022-12-19
+
+* Fix PSR-4 Autoloading Standard
+
 ### [0.1.0] - 2022-12-18
 
 * Initial release
